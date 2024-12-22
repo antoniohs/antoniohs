@@ -85,7 +85,7 @@
       {
         "@type": "Identity",
         "label": {
-          "@value": "Label"
+          "@value": "My DRep ID"
         },
         "uri": {
           "@value": "https://raw.githubusercontent.com/antoniohs/antoniohs/refs/heads/main/public/CardanoDRepID.md"
