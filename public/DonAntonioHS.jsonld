@@ -81,6 +81,15 @@
         "uri": {
           "@value": "https://twitter.com/DonAntonioHS"
         }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://raw.githubusercontent.com/antoniohs/antoniohs/refs/heads/main/public/CardanoDRepID.md"
+        }
       }
     ]
   }
